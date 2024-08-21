@@ -46,7 +46,7 @@ typedef unsigned long long int ull;
 //     return;
 // }
 
-// 1) Function Pointer
+// // 1) Function Pointer
 // int main()
 // {
 //     ull s = 0, end = 1900000000;
